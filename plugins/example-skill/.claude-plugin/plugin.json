@@ -1,0 +1,9 @@
+{
+  "name": "example-skill",
+  "description": "Skill di esempio: mostra come è strutturata una skill nel marketplace",
+  "version": "1.0.0",
+  "author": {
+    "name": "Luigi Mazzarella",
+    "email": "luigi.mazzarella@bitrock.it"
+  }
+}
